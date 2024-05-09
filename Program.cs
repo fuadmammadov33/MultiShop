@@ -11,8 +11,7 @@ namespace MultiShop
             app.MapControllerRoute("default", "{controller=home}/{action=index}");
 
 
-            //app.MapGet("/", () => "Hello World!");
-
+           
             app.Run();
         }
     }

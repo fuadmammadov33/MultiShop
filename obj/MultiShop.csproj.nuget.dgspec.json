@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ca.r214.06.CA\\Desktop\\taskkk\\MultiShop\\MultiShop.csproj": {}
+    "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ca.r214.06.CA\\Desktop\\taskkk\\MultiShop\\MultiShop.csproj": {
+    "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ca.r214.06.CA\\Desktop\\taskkk\\MultiShop\\MultiShop.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
         "projectName": "MultiShop",
-        "projectPath": "C:\\Users\\ca.r214.06.CA\\Desktop\\taskkk\\MultiShop\\MultiShop.csproj",
-        "packagesPath": "C:\\Users\\ca.r214.06.CA\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ca.r214.06.CA\\Desktop\\taskkk\\MultiShop\\obj\\",
+        "projectPath": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
+        "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS\\Desktop\\MultiShop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ca.r214.06.CA\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -45,6 +45,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[8.0.2, )"

@@ -3,7 +3,7 @@ namespace MultiShop.Controllers
 {
     public class ProductController : Controller
     {
-        public IActionResult Index()
+        public IActionResult Shop()
         {
             return View();
         }

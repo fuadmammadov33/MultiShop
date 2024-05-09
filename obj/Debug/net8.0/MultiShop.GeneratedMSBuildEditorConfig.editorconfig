@@ -17,35 +17,35 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MultiShop
 build_property.RootNamespace = MultiShop
-build_property.ProjectDir = C:\Users\ca.r214.06.CA\Desktop\taskkk\MultiShop\
+build_property.ProjectDir = C:\Users\ASUS\Desktop\MultiShop\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ca.r214.06.CA\Desktop\taskkk\MultiShop
+build_property.MSBuildProjectDirectory = C:\Users\ASUS\Desktop\MultiShop
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/Home/Contact.cshtml]
+[C:/Users/ASUS/Desktop/MultiShop/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/Home/Index.cshtml]
+[C:/Users/ASUS/Desktop/MultiShop/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/Product/detail.cshtml]
+[C:/Users/ASUS/Desktop/MultiShop/Views/Product/detail.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxkZXRhaWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/Product/index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxpbmRleC5jc2h0bWw=
+[C:/Users/ASUS/Desktop/MultiShop/Views/Product/shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxzaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/Shared/_Layout.cshtml]
+[C:/Users/ASUS/Desktop/MultiShop/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/ca.r214.06.CA/Desktop/taskkk/MultiShop/Views/_ViewStart.cshtml]
+[C:/Users/ASUS/Desktop/MultiShop/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
