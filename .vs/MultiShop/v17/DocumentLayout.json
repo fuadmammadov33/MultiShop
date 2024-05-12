@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\MultiShop\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|c:\\users\\asus\\desktop\\multishop\\dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:dataacceslayer\\multicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:multishop.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|C:\\Users\\ASUS\\Desktop\\MultiShop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DD93AC6-818F-444F-A992-5A5CE2B58268}|MultiShop.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,36 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "MultiShop",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
+              "RelativeDocumentMoniker": "MultiShop.csproj",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
+              "RelativeToolTip": "MultiShop.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T22:57:13.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MultiShop\\Models\\Category.cs*",
+              "RelativeToolTip": "Models\\Category.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:44:29.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MultiShop\\Models\\BaseEntity.cs*",
+              "RelativeToolTip": "Models\\BaseEntity.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T22:43:52.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MultiContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\DataAccesLayer\\MultiContext.cs",
               "RelativeDocumentMoniker": "DataAccesLayer\\MultiContext.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\MultiShop\\DataAccesLayer\\MultiContext.cs",
               "RelativeToolTip": "DataAccesLayer\\MultiContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T15:46:45.993Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "MultiShop.csproj",
-              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
-              "RelativeDocumentMoniker": "MultiShop.csproj",
-              "ToolTip": "C:\\Users\\ASUS\\Desktop\\MultiShop\\MultiShop.csproj",
-              "RelativeToolTip": "MultiShop.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-07T07:42:11.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\MultiShop\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -59,8 +91,7 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-07T07:41:12.48Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-07T07:41:12.48Z"
             }
           ]
         }
